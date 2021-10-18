@@ -2,14 +2,23 @@
 
 ## Description 
 
-Built using Java and applied object-oriented programming principles to handle game data and manage complex logic. Daleks is a simple game that allows users to navigate around the 12 by 12 grid and attempt to crash the Daleks. When all the Daleks have crashed into each other, the user wins the game. If the user crashes into one of the Daleks, the user loses. The user can also teleport to a random point by clicking anywhere on the board.
+Build using Java, applied functions, methods, and made use of Java Swing library to create a simple ui to replicate a Minesweeper game. Applied recursion and other algorithims to find boxes without bombs. Designed complex functions and methods to handle data and complex in-game logic.
 
 ## Illustrations
 
-![Game Image](https://github.com/GURPREETSINGHMULTANI/Java-Daleks-Game/blob/master/Daleks%20Game%20Images/1.png?raw=true)
+![Game Image](https://github.com/GURPREETSINGHMULTANI/Java-Minesweeper/blob/master/Minesweeper%20Images/11.png?raw=true)
 
-![Game Image](https://github.com/GURPREETSINGHMULTANI/Java-Daleks-Game/blob/master/Daleks%20Game%20Images/2.png?raw=true)
+![Game Image](https://github.com/GURPREETSINGHMULTANI/Java-Minesweeper/blob/master/Minesweeper%20Images/22.png?raw=true)
 
-![Game Image](https://github.com/GURPREETSINGHMULTANI/Java-Daleks-Game/blob/master/Daleks%20Game%20Images/3.png?raw=true)
+![Game Image](https://github.com/GURPREETSINGHMULTANI/Java-Minesweeper/blob/master/Minesweeper%20Images/33.png?raw=true)
 
-![Game Image](https://github.com/GURPREETSINGHMULTANI/Java-Daleks-Game/blob/master/Daleks%20Game%20Images/4.png?raw=true)
+![Game Image](https://github.com/GURPREETSINGHMULTANI/Java-Minesweeper/blob/master/Minesweeper%20Images/44.png?raw=true)
+
+![Game Image](https://github.com/GURPREETSINGHMULTANI/Java-Minesweeper/blob/master/Minesweeper%20Images/55.png?raw=true)
+
+![Game Image](https://github.com/GURPREETSINGHMULTANI/Java-Minesweeper/blob/master/Minesweeper%20Images/66.png?raw=true)
+
+![Game Image](https://github.com/GURPREETSINGHMULTANI/Java-Minesweeper/blob/master/Minesweeper%20Images/77.png?raw=true)
+
+![Game Image](https://github.com/GURPREETSINGHMULTANI/Java-Minesweeper/blob/master/Minesweeper%20Images/88.png?raw=true)
+
